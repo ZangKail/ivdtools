@@ -1,5 +1,5 @@
 # Confidence Interval and Sample Size for One Proportion v0.0.1
-# Author: ZangKail 2025-04-19
+# Author: HIOX 2025-04-19
 
 # Reference: R source: power.binom.test{MESS}, BinomCI{clinfun}
 # Reference: Handbook: JMP, G-power, Medcalc, Analyse-it, Stata, SAS
